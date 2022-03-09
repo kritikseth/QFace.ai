@@ -1,6 +1,7 @@
 
 import os
 import pathlib
+os.system('wget https://github.com/TencentARC/GFPGAN/releases/download/v0.2.0/GFPGANCleanv1-NoCE-C2.pth -P .')
 
 import random
 from PIL import Image
